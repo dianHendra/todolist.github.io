@@ -15,13 +15,13 @@ untuk running progam harus melakukan intal beberapa requirement dengan menggunak
 npm init
 ```
 
-setelah itu instal express nya
+2. instal express nya
 
 ```
 npm i express -s
 ```
 
-kemudian lakukan init dan install expres di folder server
+3. lakukan init dan install expres di folder server
 
 jalankan server dan client dengan membuka 2 promp untuk server dan client
 lakukan beberapa alternatif dibawah untuk menjalankan program
